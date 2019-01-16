@@ -334,7 +334,7 @@
         <bounds x="468" y="312" width="217" height="205"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="3b06c4bb-01e4-49c9-bc58-3938b6775874" archimateElement="23289b04-4cc1-4020-b361-da5d19675bd8">
-        <bounds x="468" y="228" width="120" height="55"/>
+        <bounds x="468" y="228" width="133" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="bd15ff86-ec9c-48ec-9bf9-9401ef2af08f" source="3b06c4bb-01e4-49c9-bc58-3938b6775874" target="b029e4c6-af9f-4ce6-8c27-67dc8565ee9d" archimateRelationship="8109f684-aa5e-42ae-8dc7-68ac0dc12c2d"/>
         <sourceConnection xsi:type="archimate:Connection" id="0d8f540a-20c9-4960-866d-bd8803e49338" source="3b06c4bb-01e4-49c9-bc58-3938b6775874" target="216fdd12-91d5-4516-8e89-23ef34fa359f" archimateRelationship="58640e6d-ef57-4da9-b629-288bc4ba814f">
           <bendpoint startX="420" startY="9" endX="36" endY="177"/>
